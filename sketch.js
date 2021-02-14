@@ -61,7 +61,7 @@ function preload() {
   fireSound = loadSound("gunshot2.mp3");
   walkingSound = loadSound("walking.mp3");
   lost = loadSound("lost.mp3");
-  roundStart = loadSound("roundStart.mp3");
+  roundStart = loadSound("RoundStart.mp3");
  
 }
 
